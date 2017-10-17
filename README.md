@@ -42,10 +42,23 @@ https://github.com/qtrandev/MiamiTrolleyReactNativeExpo
 ## Bus Tracking GPS (Inactive)
 
 Shows how to build a GPS Tracker using an Arduino board for tracking trolley buses.  Information here is still useful to build a tracker though, but getting a data plan is not maintainable.  
-This project is now inactive since Quyen went on a personal hiatus and data plan costs $30 a month to maintain.  
+This project is now inactive since Quyen Tran went on a personal hiatus and data plan costs $30 a month to maintain.  
 Code For Miami partnered with City of Sweetwater for a pilot but this became inactive. Hardware is still at Sweetwater Transportation Department, which needs to be retrieved since this project ended.  
 
 https://github.com/herrdragon/busTrackingGps  
 https://github.com/Code-for-Miami/SweetwaterTrolley (Related)  
 
 ![](https://github.com/qtrandev/busTrackingGps/raw/master/images/GPS-Tracker1.jpg)  
+
+## GTFS Data
+
+Very important GTFS data created for the Miami-Dade trolley services created by Quyen Tran and Code For Miami.  
+This is the foundation for transit mapping services such as Google Maps Transit.  
+This data should be compared with Miami-Dade County GTFS data provided to Google Maps to update Miami-Dade data.  
+Note that City of Miami data is old and invalid since they have a new trolley provider for 2017.
+
+https://github.com/qtrandev/OneBusAway/tree/master/GTFS  
+
+Miami-Dade County GTFS data provided to Google Maps:  
+http://transitfeeds.com/p/miami-dade-county-transit/48/latest  
+http://transitfeeds.com/p/miami-dade-county-transit/48/latest/routes  
