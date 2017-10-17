@@ -1,5 +1,5 @@
 # MiamiTrolleyInfo
-Information repository for all information related to Miami-Dade Trolley systems
+Information repository for all information related to Miami-Dade area trolley and transit systems
 
 ## Transit Agencies
 
