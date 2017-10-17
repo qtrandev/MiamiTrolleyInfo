@@ -50,6 +50,18 @@ https://github.com/Code-for-Miami/SweetwaterTrolley (Related)
 
 ![](https://github.com/qtrandev/busTrackingGps/raw/master/images/GPS-Tracker1.jpg)  
 
+## Fort Lauderdale Sun Trolley
+
+GTFS data created for the Fort Lauderdale Sun Trolley.  
+This data format is the national standard used by Google Maps.  
+View the data txt files to see how it's done.  
+
+https://github.com/qtrandev/suntrolleygtfs  
+
+This data is the foundation for the Sun Trolley map made by Code For Fort Lauderdale.  
+http://suntrolley.herokuapp.com/map  
+https://github.com/eorroe/suntrolley/wiki  
+
 ## GTFS Data
 
 Very important GTFS data created for the Miami-Dade trolley services created by Quyen Tran and Code For Miami.  
