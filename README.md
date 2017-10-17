@@ -13,7 +13,9 @@ https://github.com/qtrandev/OneBusAway/wiki/Transit-Agencies
 
 Android and iOS React Native phone apps to display City of Miami trolley system. Currently broken at the moment due to City of Miami changing trolley provider in 2017. The code here is still useful and is a basis for how to develop React Native apps with remote cloud content push.  
 
-https://github.com/wkrause13/miamiTrolleyTracker
+https://github.com/wkrause13/miamiTrolleyTracker  
+
+![](https://raw.githubusercontent.com/wkrause13/miamiTrolleyTracker/master/fastlane/screenshots/dualscreens.png)  
 
 ## Leaflet Transit
 
