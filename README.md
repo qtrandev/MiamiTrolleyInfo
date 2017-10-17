@@ -38,3 +38,13 @@ This is a React Native app that can be loaded on Android or iOS.  Expo also has 
 https://github.com/qtrandev/MiamiTrolleyReactNativeExpo  
 
 ![](https://github.com/qtrandev/MiamiTrolleyReactNativeExpo/blob/master/screenshot.png)  
+
+## Bus Tracking GPS (Inactive)
+
+Shows how to build a GPS Tracker using an Arduino board for tracking trolley buses.  Information here is still useful to build a tracker though, but getting a data plan is not maintainable.  
+This project is now inactive since Quyen went on a personal hiatus and data plan costs $30 a month to maintain.  
+Code For Miami partnered with City of Sweetwater for a pilot but this became inactive. Hardware is still at Sweetwater Transportation Department, which needs to be retrieved since this project ended.  
+
+https://github.com/herrdragon/busTrackingGps  
+
+![](https://github.com/qtrandev/busTrackingGps/raw/master/images/GPS-Tracker1.jpg)  
