@@ -3,7 +3,7 @@ Information repository for all information related to Miami-Dade area trolley an
 
 ## Transit Agencies
 
-Information on all transit agencies in Miami-Dade and South Florida.  
+Information on all transit agencies in Miami-Dade, Broward, and South Florida.  
 
 https://github.com/qtrandev/OneBusAway/wiki/Transit-Agencies  
 
