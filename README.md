@@ -26,6 +26,8 @@ Inspect the code in Chrome debugger and see the index.js file and the requests m
 
 https://github.com/Code-for-Miami/LeafletTransit  
 
+![](https://github.com/qtrandev/MiamiTrolleyInfo/blob/master/screenshot2.png)  
+
 ## Miami Trolley React Native Expo
 
 Newest project pulling data from City of Miami new trolley data provider TSO Mobile. Work in progress.  
