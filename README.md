@@ -62,6 +62,8 @@ This data is the foundation for the Sun Trolley map made by Code For Fort Lauder
 http://suntrolley.herokuapp.com/map  
 https://github.com/eorroe/suntrolley/wiki  
 
+![](https://github.com/qtrandev/MiamiTrolleyInfo/blob/master/screenshot3.png)
+
 ## GTFS Data
 
 Very important GTFS data created for the Miami-Dade trolley services created by Quyen Tran and Code For Miami.  
