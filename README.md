@@ -78,3 +78,39 @@ http://transitfeeds.com/p/miami-dade-county-transit/48/latest
 http://transitfeeds.com/p/miami-dade-county-transit/48/latest/routes  
 
 ![](https://github.com/qtrandev/MiamiTrolleyInfo/blob/master/screenshot4.png)
+
+## Direct Links To Popular City Trolley Online Tracking Maps
+
+### City of Miami
+
+http://app.tsomobile.com/publictransportation/driverroute.htm?tkn=81E39EC9-D773-447E-BE29-D7F30AB177BC&lan=en  
+
+### City of Miami Beach
+
+http://app.tsomobile.com/publictransportation/driverroute.htm?tkn=825894C5-2B5F-402D-A055-88F2297AF99A  
+
+### City of Doral
+
+http://app.tsomobile.com/publictransportation/driverroute.htm?tkn=582EB861-9C13-4C89-B491-15F0AFBF9F47  
+
+### City of Fort Lauderdale Sun Trolley
+
+http://www.suntrolley.com/routes-schedules-fares/desktop-tracker/  
+
+### Miami-Dade County Transit
+
+http://www.miamidade.gov/transit/bustracker.asp?RouteID=123&Dir=Clockwise&StopID=746&Sequence=1  
+
+### Broward County Transit
+
+http://www.broward.org/bct/myride/Pages/default.aspx  
+
+### Palm Beach County Palm Tran
+
+http://www.pbcgov.com/igo  
+
+### Tri-Rail
+
+http://trirailpublic.etaspot.net  
+
+
