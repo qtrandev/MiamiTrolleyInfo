@@ -39,6 +39,8 @@ https://github.com/qtrandev/MiamiTrolleyReactNativeExpo
 
 ![](https://github.com/qtrandev/MiamiTrolleyReactNativeExpo/blob/master/screenshot.png)  
 
+<img src="https://github.com/qtrandev/MiamiTrolleyReactNativeExpo/blob/master/screenshot3.png" width="350">  
+
 ## Bus Tracking GPS (Inactive)
 
 Shows how to build a GPS Tracker using an Arduino board for tracking trolley buses.  Information here is still useful to build a tracker though, but getting a data plan is not maintainable.  
