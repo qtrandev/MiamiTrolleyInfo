@@ -46,5 +46,6 @@ This project is now inactive since Quyen went on a personal hiatus and data plan
 Code For Miami partnered with City of Sweetwater for a pilot but this became inactive. Hardware is still at Sweetwater Transportation Department, which needs to be retrieved since this project ended.  
 
 https://github.com/herrdragon/busTrackingGps  
+https://github.com/Code-for-Miami/SweetwaterTrolley (Related)  
 
 ![](https://github.com/qtrandev/busTrackingGps/raw/master/images/GPS-Tracker1.jpg)  
