@@ -79,7 +79,7 @@ http://transitfeeds.com/p/miami-dade-county-transit/48/latest/routes
 
 ![](https://github.com/qtrandev/MiamiTrolleyInfo/blob/master/screenshot4.png)
 
-## Direct Links To Popular Transit Online Tracking Maps
+## Popular Transit Online Tracking Maps
 
 ### City of Miami
 
