@@ -32,3 +32,5 @@ Newest project pulling data from City of Miami new trolley data provider TSO Mob
 This is a React Native app that can be loaded on Android or iOS.  Expo also has a phone emulator on the website.
 
 https://github.com/qtrandev/MiamiTrolleyReactNativeExpo  
+
+![](https://github.com/qtrandev/MiamiTrolleyReactNativeExpo/blob/master/screenshot.png)  
