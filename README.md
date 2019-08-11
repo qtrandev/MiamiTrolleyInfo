@@ -17,6 +17,8 @@ Android and iOS React Native phone apps to display City of Miami trolley system.
 
 https://github.com/wkrause13/miamiTrolleyTracker  
 
+For more information on React Native, go to https://www.reddit.com/r/reactnative/.
+
 ![](https://raw.githubusercontent.com/wkrause13/miamiTrolleyTracker/master/fastlane/screenshots/dualscreens.png)  
 
 ## Leaflet Transit
