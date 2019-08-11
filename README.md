@@ -7,7 +7,7 @@ Information on all transit agencies in Miami-Dade, Broward, and South Florida.
 
 https://github.com/qtrandev/OneBusAway/wiki/Transit-Agencies  
 
-A similar resource is at https://github.com/cscape/miamitransit-docs/blob/master/MDT%20Documentation.md
+A similar resource is at https://github.com/cscape/miamitransit-docs/blob/master/MDT%20Documentation.md  
 
 ![](https://github.com/qtrandev/MiamiTrolleyInfo/blob/master/screenshot1.png)
 
@@ -17,7 +17,7 @@ Android and iOS React Native phone apps to display City of Miami trolley system.
 
 https://github.com/wkrause13/miamiTrolleyTracker  
 
-For more information on React Native, go to https://www.reddit.com/r/reactnative/.
+For more information on React Native, go to https://www.reddit.com/r/reactnative/.  
 
 ![](https://raw.githubusercontent.com/wkrause13/miamiTrolleyTracker/master/fastlane/screenshots/dualscreens.png)  
 
@@ -31,6 +31,8 @@ This is a good project to learn how to access various data sources in Miami-Dade
 Inspect the code in Chrome debugger and see the index.js file and the requests made.  
 
 https://github.com/Code-for-Miami/LeafletTransit  
+
+Informal updates are made at https://github.com/qtrandev/LeafletTransit and http://qtrandev.github.io/LeafletTransit  
 
 ![](https://github.com/qtrandev/MiamiTrolleyInfo/blob/master/screenshot2.png)  
 
