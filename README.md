@@ -7,6 +7,8 @@ Information on all transit agencies in Miami-Dade, Broward, and South Florida.
 
 https://github.com/qtrandev/OneBusAway/wiki/Transit-Agencies  
 
+A similar resource is at https://github.com/cscape/miamitransit-docs/blob/master/MDT%20Documentation.md
+
 ![](https://github.com/qtrandev/MiamiTrolleyInfo/blob/master/screenshot1.png)
 
 ## React Native Trolley Tracker By Code For Miami
