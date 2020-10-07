@@ -21,6 +21,8 @@ For more information on React Native, go to https://www.reddit.com/r/reactnative
 
 ![](https://raw.githubusercontent.com/wkrause13/miamiTrolleyTracker/master/fastlane/screenshots/dualscreens.png)  
 
+More React Native resources/demos can be found with a different React Native iOS App (along with video demos) at: https://github.com/qtrandev/local-visa-market-app
+
 ## Leaflet Transit
 
 Web app using Leaflet Javascript mapping library to show all transportation services in Miami-Dade County on a map.  
